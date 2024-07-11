@@ -1,0 +1,1 @@
+{"version":3,"names":["Text","View","jsx","_jsx","MyComponent","children"],"sourceRoot":"../../src","sources":["index.tsx"],"mappings":"AAAA,SAASA,IAAI,EAAEC,IAAI,QAAQ,cAAc;AAAC,SAAAC,GAAA,IAAAC,IAAA;AAE1C,OAAO,SAASC,WAAWA,CAAA,EAAoB;EAC7C,oBACED,IAAA,CAACF,IAAI;IAAAI,QAAA,eACHF,IAAA,CAACH,IAAI;MAAAK,QAAA,EAAC;IAAmC,CAAM;EAAC,CAC5C,CAAC;AAEX","ignoreList":[]}
